@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="fZmOiKrNjPmXg6uT44XO" name="Página-1">
+        <mxGraphModel dx="832" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="242.5" y="40" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="CRÉDITO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="120" width="95" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="360" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;CRÉDITO &amp;lt; 0&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="238.75" y="190" width="87.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="361.25" y="385" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="360" y="360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="&quot;TÊM CRÉTIDO&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="322.5" y="260" width="77.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;FIM&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="244.38" y="340" width="76.25" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;font size=&quot;3&quot;&gt;INÍCIO&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxGeometry x="260.63" y="50" width="43.75" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
