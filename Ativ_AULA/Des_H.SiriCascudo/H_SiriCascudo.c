@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-int main(){
+int main(void){
 
   // VERIFICAÇÃO DO ESTOQUE
   int Est_1, Est_2, Est_3, Est_4, Est_5, estGERAL, faltESTOQUE;
